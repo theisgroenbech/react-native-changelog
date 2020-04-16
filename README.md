@@ -77,7 +77,7 @@ const changes =
 | **`title`**      | Title of the dialog                                                                                                                                                                                                                   | `Since last time 👋!`     |
 
 ## Screenshots
-<img src="https://github.com/theisgroenbech/react-native-changelog/master/D47DF8C0-6F34-4F2B-96F1-FA919FA551F8.png" width="40%" height="40%"><img src="https://github.com/theisgroenbech/react-native-changelog/master/4C0820C0-1132-4EA0-9972-E9700D8148A6.png" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/theisgroenbech/react-native-changelog/master/screenshots/1.png" width="40%" height="40%"><img src="https://raw.githubusercontent.com/theisgroenbech/react-native-changelog/master/screenshots/2.png" width="40%" height="40%">
 
 ## Example
 
