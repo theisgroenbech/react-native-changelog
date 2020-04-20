@@ -94,7 +94,7 @@ Check full example in the `Example` folder.
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
 import {ManagedChangelog} from "react-native-changelog";
-
+import Constants from "expo-constants";
 const changes =
     [{
         version: 'V2.3',
@@ -113,7 +113,7 @@ const changes =
 export default function App() {
     return (
         <View style={styles.container}>
-            <ManagedChangelog changelog={changes} />
+            <ManagedChangelog changelog={changes} version={Constants.manifest.version} />
             <Text>Changelog example</Text>
         </View>
     );

@@ -17,6 +17,11 @@
     "react-native-timeline-flatlist": "^0.7.2",
     "react-native-web": "~0.11.7"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/theisgroenbech/react-native-changelog"
+  },
+ "license" : "MIT",
   "devDependencies": {
     "@babel/core": "^7.8.6",
     "babel-preset-expo": "~8.1.0"
