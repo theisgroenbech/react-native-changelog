@@ -1,6 +1,6 @@
 # react-native-changelog
 
-[![npm version](https://badge.fury.io/js/react-native-changelog2.svg)](https://badge.fury.io/js/react-native-changelog)
+[![npm version](https://badge.fury.io/js/react-native-changelog.svg)](https://badge.fury.io/js/react-native-changelog)
 [![Platform](https://img.shields.io/badge/react--native-0.61-blue.svg)](http://facebook.github.io/react-native/)
 
 Modal component that visualises changelogs as timelines.
