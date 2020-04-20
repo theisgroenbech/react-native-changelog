@@ -1,8 +1,12 @@
 # react-native-changelog
 
-Changelog modal component for React Native using timelines.
+[![npm version](https://badge.fury.io/js/react-native-changelog.svg)](https://badge.fury.io/js/react-native-changelog)
+[![Platform](https://img.shields.io/badge/react--native-0.61-blue.svg)](http://facebook.github.io/react-native/)
 
-JavaScript, based on the Expo core for automatic versioning.
+Modal component that visualises changelogs as timelines.
+Made for React Native and based on the expo core for automatic versioning.
+
+A big thank you to [thegamenicorus](https://github.com/thegamenicorus/react-native-timeline-listview) and [eugnis](https://github.com/Eugnis/react-native-timeline-flatlist) for the work on the timeline component.
 
 ## Installation
 
