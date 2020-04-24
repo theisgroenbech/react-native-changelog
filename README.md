@@ -89,7 +89,7 @@ const changes =
 
 ## Example
 
-Check full example in the `Example` folder.
+Check full example in the `example` folder.
 
 ```js
 import React from 'react';
